@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "portal-mark-3", "portal-mark-3\portal-mark-3.csproj", "{C14745B2-05C0-4221-81EA-824C84E35F94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C14745B2-05C0-4221-81EA-824C84E35F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14745B2-05C0-4221-81EA-824C84E35F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14745B2-05C0-4221-81EA-824C84E35F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14745B2-05C0-4221-81EA-824C84E35F94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FAF53C3-CE4B-4968-BFCA-580D97B479EC}
+	EndGlobalSection
+EndGlobal
